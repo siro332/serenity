@@ -1,0 +1,35 @@
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+buildscript {
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath("net.serenity-bdd:serenity-gradle-plugin:3.6.7")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+//apply plugin: 'net.serenity-bdd.aggregator'
+apply plugin: "net.serenity-bdd.serenity-gradle-plugin"
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    implementation "jakarta.xml.bind:jakarta.xml.bind-api:2.3.2"
+    implementation "org.glassfish.jaxb:jaxb-runtime:2.3.2"
+    implementation 'net.serenity-bdd:serenity-core:3.6.9'
+    implementation 'net.serenity-bdd:serenity-junit:3.6.9'
+    testImplementation('junit:junit:4.12')
+}
+gradle.startParameter.continueOnFailure = true

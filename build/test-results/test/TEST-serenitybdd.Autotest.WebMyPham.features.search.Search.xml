@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serenitybdd.Autotest.WebMyPham.features.search.Search" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-02-07T13:56:49" hostname="LAM-PC" time="29.912">
+  <properties/>
+  <testcase name="SearchTestcase[0]" classname="serenitybdd.Autotest.WebMyPham.features.search.Search" time="7.794"/>
+  <testcase name="SearchTestcase[1]" classname="serenitybdd.Autotest.WebMyPham.features.search.Search" time="8.266"/>
+  <testcase name="SearchTestcase[2]" classname="serenitybdd.Autotest.WebMyPham.features.search.Search" time="6.723"/>
+  <testcase name="SearchTestcase[3]" classname="serenitybdd.Autotest.WebMyPham.features.search.Search" time="7.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

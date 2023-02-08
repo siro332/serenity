@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="serenitybdd.Autotest.WebMyPham.features.search.Login" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-07T13:55:30" hostname="LAM-PC" time="77.058">
+  <properties/>
+  <testcase name="SignUp_testcase[0]" classname="serenitybdd.Autotest.WebMyPham.features.search.Login" time="27.199"/>
+  <testcase name="SignUp_testcase[1]" classname="serenitybdd.Autotest.WebMyPham.features.search.Login" time="9.716"/>
+  <testcase name="SignUp_testcase[2]" classname="serenitybdd.Autotest.WebMyPham.features.search.Login" time="16.436"/>
+  <testcase name="SignUp_testcase[3]" classname="serenitybdd.Autotest.WebMyPham.features.search.Login" time="9.228"/>
+  <testcase name="SignUp_testcase[4]" classname="serenitybdd.Autotest.WebMyPham.features.search.Login" time="14.317"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 17139
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>

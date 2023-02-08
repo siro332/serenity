@@ -1,0 +1,5 @@
+testcase,song,result
+Tìm kiếm chính xác tên bài hát,Tết Này Con Sẽ Về,success
+Tìm kiếm với chữ thường,tết này con sẽ về,success
+Tìm kiếm với chữ hoa,TẾT NÀY CON SẼ VỀ,success
+Kiểm tra nhập khoảng trắng đầu cuối vào chuỗi tìm kiếm,   Tết này con sẽ về       ,success

@@ -1,0 +1,6 @@
+testcase,name,password,result
+Đăng nhập thành công,Nguyenthanhluan_20,Nguyenthanhluan_20,Đăng nhập thành công
+Đăng nhập không thành công do không nhập Tên đăng nhập,,Nguyenthanhluan_20,Sai tài khoản hoặc mật khẩu
+Đăng nhập thành công khi nhập Tên đăng nhập có chứa khoảng cách đầu cuối ,   Nguyenthanhluan_20       ,Nguyenthanhluan_20,Đăng nhập thành công
+Đăng nhập không thành công do không nhập Mật khẩu,Nguyenthanhluan_20,,Sai tài khoản hoặc mật khẩu
+Đăng nhập thành công khi nhập Password có chứa khoảng cách đầu cuối,Nguyenthanhluan_20,   Nguyenthanhluan_20,Đăng nhập thành công
